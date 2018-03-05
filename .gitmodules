@@ -4,8 +4,8 @@
 	branch = master
 [submodule "leveldb"]
 	path = leveldb
-	url = https://github.com/tokenpay/leveldb
+	url = https://github.com/gabriel-samfira/leveldb
 	branch = master
 [submodule "db4.8"]
 	path = db4.8
-	url = https://github.com/tokenpay/db4.8
+	url = https://github.com/gabriel-samfira/db4.8
